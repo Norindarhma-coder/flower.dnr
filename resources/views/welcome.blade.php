@@ -34,7 +34,7 @@
         <span class="text-rose-400 text-xs font-bold tracking-[0.2em] uppercase">Florist Premium — Est. 2026</span>
         <h2 class="mt-6 text-5xl md:text-7xl font-elegant font-semibold text-stone-800 leading-tight">
             Menyampaikan Rasa <br>
-            <span class="text-rose-600 italic">Lewat keindahan dinda </span>
+            <span class="text-rose-600 italic">Lewat keindahan Bungaa </span>
         </h2>
         <p class="mt-8 text-lg text-stone-500 max-w-2xl mx-auto font-light leading-relaxed">
             Setiap tangkai dipilih dengan seksama dan dirangkai dengan kelembutan. Hadirkan momen tak terlupakan untuk orang-orang paling istimewa dalam hidup Anda bersama flower.dnr.
